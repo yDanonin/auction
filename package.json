@@ -2,13 +2,13 @@
   "name": "public-sale",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "dev:server": "node-dev src/server.js",
+    "dev:server": "node-dev src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fabiano Barros Rocha",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
